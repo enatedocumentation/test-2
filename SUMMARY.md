@@ -6,7 +6,7 @@
 
 ---
 
-* [1. Work Manager's Home Page](untitled-3/README.md)
+* [1. Home Page](untitled-3/README.md)
   * [1.1 Home Page – Bar Chart and Grid](untitled-3/1.2-home-page-bar-chart-and-grid.md)
   * [1.2 Team Bar](untitled-3/1.3-team-bar.md)
 * [2. Setting Teams and Queues](2.-team-leader-setting-your-teams-and-queues.md)
