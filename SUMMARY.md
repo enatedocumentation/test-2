@@ -31,7 +31,7 @@
 * [8. Integration with ABBYY FlexiCapture OCR Technology](untitled.md)
 * [9. Contact Activity Page](9.-the-contact-activity-page.md)
 * [10. Views of your Data](10.-views-of-your-data.md)
-* [11. Bulk Create of Work Items](11.-bulk-create-of-work-items.md)
+* [11. Bulk Create Work Items](11.-bulk-create-of-work-items.md)
 * [12. User Settings](untitled-1/README.md)
   * [12.1 Test Mode in Work Manager](untitled-1/12.3-test-mode-in-work-manager.md)
 * [13. Multilingual Support](untitled-1-1.md)
