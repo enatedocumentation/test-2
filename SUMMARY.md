@@ -15,7 +15,7 @@
   * [3.2 How Quickfind works - specifics](3.-quickfind/3.3-how-quickfind-works-specifics.md)
 * [4. Navigation Items](4.-navigation-items.md)
 * [5. Notifications](5.-notifications.md)
-* [6. Creating New Work within Work Manager](6.-creating-new-work-within-work-manager.md)
+* [6. Creating New Work](6.-creating-new-work-within-work-manager.md)
 * [7. Work Item Types - Tickets, Cases and Actions](7.-work-item-types-tickets-cases-and-actions/README.md)
   * [7.1 Overview of Work Item Types](7.-work-item-types-tickets-cases-and-actions/7.2-screens-overview-all-work-item-types.md)
   * [7.2 Header Ribbon](7.-work-item-types-tickets-cases-and-actions/7.3-header-ribbon.md)
