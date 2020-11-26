@@ -2,7 +2,7 @@
 
 The Home page allows Team Leaders and Team Members to view the work for their area of business, i.e. Work Items sitting in their Work Queues and with their Team Members \(both human and robot\).
 
-{% embed url="https://www.youtube.com/watch?v=wlKIt0H\_WeE&feature=youtu.be&ab\_channel=EnateVideo" %}
+{% embed url="https://www.youtube.com/watch?v=5jh-F1iOSYo&ab\_channel=EnateVideo" %}
 
 From the Work Items which you have permission on in your system, you will see:
 
