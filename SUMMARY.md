@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to Work Manager](README.md)
+* [Introduction to Work Manager v2021.1](README.md)
 
 ## Work Manager Documentation
 
