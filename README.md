@@ -1,4 +1,4 @@
-# Introduction to Work Manager v2021.1
+# Introduction to Work Manager
 
 Work Manager is a web-based application used by members of the Service Delivery team to interact with Tickets, Cases and Actions running through managed business processes.
 
